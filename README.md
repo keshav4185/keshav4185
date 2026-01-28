@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Keshav Golande</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=FF69B4&center=true&vCenter=true&width=500&lines=Java+Full+Stack+Developer;MCA+Student;Spring+Boot+%7C+React+%7C+MySQL" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=FF69B4&center=true&vCenter=true&width=500&lines=Java+Full+Stack+Developer" />
 </div>
 
 <p align="center">
@@ -27,13 +27,13 @@ src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-
 - 👨‍💻 All of my projects are available on **GitHub**
 - 💬 Ask me about **Java, Spring Boot, React, MySQL, MongoDB**
 - 📫 How to reach me: **keshavgolande46@gmail.com**
-- 📄 Check my **[LinkedIn Profile](https://www.linkedin.com/in/keshav-golande-6b4b782a6)**
+- 📄 Check my **[LinkedIn Profile](https://www.linkedin.com/in/keshav-golande-%F0%9F%92%BB-6b4b782a6/)**
 
 <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/keshav-golande-6b4b782a6" target="_blank">
+  <a href="https://www.linkedin.com/in/keshav-golande-%F0%9F%92%BB-6b4b782a6/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
   <a href="https://github.com/keshav4185" target="_blank">
